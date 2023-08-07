@@ -37,7 +37,7 @@ python main.py
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Einzelheiten finden Sie in der Datei `LICENSE`.
+Dieses Projekt ist unter der GNU General Public License v3.0 lizenziert. Weitere Einzelheiten finden Sie in der Datei LICENSE.
 
 ## Mitwirken
 
